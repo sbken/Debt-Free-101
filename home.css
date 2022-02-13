@@ -6,6 +6,10 @@ nav {
   background-color:#ABEBC6;
  display: inline;
  float: left;
+ padding-left:10px;
+ padding-right:10px;
+ padding-top: 10px;
+ padding-bottom:10px;
 }
 
 h1 {
