@@ -2,8 +2,9 @@ body {
  background-color: #F1ECE4; 
 }
 
-ul {
- overflow:hidden;
+ul.nav {
+ background-color:#ABEBC6;
+ list-style-type:none;
 }
 
 li {
@@ -16,7 +17,6 @@ color:#44A06F;
 }
 
 nav {
-  background-color:#ABEBC6;
  display: inline;
  padding-left:10px;
  padding-right:10px;
