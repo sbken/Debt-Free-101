@@ -5,6 +5,7 @@ body {
 ul.nav {
  list-style-type:none;
  background-color:#ABEBC6;
+ border-color: #44A06F;
 }
 
 li {
