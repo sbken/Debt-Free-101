@@ -85,18 +85,17 @@ th,td {
   border-style:solid;
    border-color:#000000;
   border-collapse: collapse;
-  padding: 10%;
+  padding: 5%;
 }
 
 table {
  text-align:center;
  margin-left:auto;
  margin-right: auto;
+ table-layout:fixed;
+ width:100%;
+ white-space;nowrap;
 
 .button {
  display:inline;
-}
-
-.space {
- color: #F1ECE4; 
 }
