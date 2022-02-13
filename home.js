@@ -113,47 +113,47 @@ function updateResult () {
     result.innerHTML = "You got 0 out of 10 correct";
     console.log ("You got 0 out of 10 correct");
     
-  if(correctAnswer >= 1) {
+  else if(correctAnswer >= 1) {
     result.innerHTML = "You got 1 out of 10 correct";
     console.log ("You got 1 out of 10 correct");
 
-  }  if (correctAnswer >= 2 ) {
+  } else if (correctAnswer >= 2 ) {
     result.innerHTML = "You got 2 out of 10 correct";
     console.log ("You got 2 out of 10 correct");
   }
 
-  if(correctAnswer >= 3) {
+  else if(correctAnswer >= 3) {
     result.innerHTML = "You got 3 out of 10 correct";
     console.log ("You got 3 out of 10 correct");
 
-  } if (correctAnswer >= 4 ) {
+  } else if (correctAnswer >= 4 ) {
     result.innerHTML = "You got 4 out of 10 correct";
     console.log ("You got 4 out of 10 correct");
   }
 
-  if(correctAnswer >= 5) {
+  else if(correctAnswer >= 5) {
     result.innerHTML = "You got 5 out of 10 correct";
     console.log ("You got 5 out of 10 correct");
 
-  }  if (correctAnswer >= 6 ) {
+  } else if (correctAnswer >= 6 ) {
     result.innerHTML = "You got 6 out of 10 correct";
     console.log ("You got 6 out of 10 correct");
 }
 
-  if(correctAnswer >= 7) {
+  else if(correctAnswer >= 7) {
     result.innerHTML = "You got 7 out of 10 correct";
     console.log ("You got 7 out of 10 correct");
 
-  } if (correctAnswer >= 8 ) {
+  } else if (correctAnswer >= 8 ) {
     result.innerHTML = "You got 8 out of 10 correct";
     console.log ("You got 8 out of 10 correct");
   }
 
-  if(correctAnswer >= 9) {
+  else if(correctAnswer >= 9) {
     result.innerHTML = "You got 9 out of 10 correct";
     console.log ("You got 9 out of 10 correct");
 
-  }  if (correctAnswer >= 10 ) {
+  }  else (correctAnswer >= 10 ) {
     result.innerHTML = "You got 10 out of 10 correct. Great Job!";
     console.log ("You got 10 out of 10 correct");
   }
