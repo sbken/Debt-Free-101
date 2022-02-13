@@ -6,6 +6,7 @@ ul.nav {
  list-style-type:none;
  background-color:#ABEBC6;
  border-color: #44A06F;
+ border-width: 5px;
 }
 
 li {
@@ -22,7 +23,7 @@ color:#FFFFFF;
 }
 
 li a:hover {
- color:44A06F;
+ color:#ABEBC6;
  background-color:#FFFFFF;
 }
 
