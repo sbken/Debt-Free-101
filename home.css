@@ -10,7 +10,7 @@ header {
  border-color: #44A06F;
  border-width: 5px;
  padding-left:10px;
- padding-right:70px;
+ padding-right:60px;
  padding-top: 5px;
  padding-bottom:5px;
 }
@@ -22,7 +22,7 @@ li.li-nav {
  border-color: #44A06F;
  border-width: 5px;
  padding-left:10px;
- padding-right:70px;
+ padding-right:60px;
  padding-top: 5px;
  padding-bottom:5px;
 }
@@ -30,7 +30,7 @@ li.li-nav {
 li a {
 color:#FFFFFF;
  padding-left:10px;
- padding-right:70px;
+ padding-right:60px;
  padding-top: 5px;
  padding-bottom:5px;
 }
