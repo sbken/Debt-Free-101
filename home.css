@@ -54,6 +54,7 @@ nav {
 
 h1 {
   margin-top:15px;
+ padding-top:15px;
   text-align:center;
 }
 
@@ -73,7 +74,7 @@ ul {
   text-align:center
 }
 
-table {
+.dtable {
  padding-left:20px;
 }
 
@@ -85,6 +86,3 @@ th,td {
   padding: 10px;
 }
 
-.list {
- left-margin:20px;
-}
