@@ -153,7 +153,7 @@ function updateResult () {
     result.innerHTML = "You got 9 out of 10 correct";
     console.log ("You got 9 out of 10 correct");
 
-  }  else (correctAnswer >= 10 ) {
+  }  else if (correctAnswer >= 10 ) {
     result.innerHTML = "You got 10 out of 10 correct. Great Job!";
     console.log ("You got 10 out of 10 correct");
   }
