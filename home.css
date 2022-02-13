@@ -10,9 +10,9 @@ header {
  border-color: #44A06F;
  border-width: 5px;
  padding-left:10px;
- padding-right:60px;
- padding-top: 10px;
- padding-bottom:10px;
+ padding-right:70px;
+ padding-top: 5px;
+ padding-bottom:5px;
 }
 
 li.li-nav {
@@ -22,22 +22,24 @@ li.li-nav {
  border-color: #44A06F;
  border-width: 5px;
  padding-left:10px;
- padding-right:50px;
- padding-top: 10px;
- padding-bottom:10px;
+ padding-right:70px;
+ padding-top: 5px;
+ padding-bottom:5px;
 }
 
 li a {
 color:#FFFFFF;
  padding-left:10px;
- padding-right:50px;
- padding-top: 10px;
- padding-bottom:10px;
+ padding-right:70px;
+ padding-top: 5px;
+ padding-bottom:5px;
 }
 
 li a:hover {
  color:#ABEBC6;
  background-color:#FFFFFF;
+ padding-top: 5px;
+ padding-bottom:5px;
 }
 
 nav {
