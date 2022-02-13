@@ -2,10 +2,22 @@ body {
  background-color: #F1ECE4; 
 }
 
+ul {
+ overflow:hidden;
+}
+
+li {
+ float: left;
+}
+
+li a {
+color:#44A06F;
+ 
+}
+
 nav {
   background-color:#ABEBC6;
  display: inline;
- float: left;
  padding-left:10px;
  padding-right:10px;
  padding-top: 10px;
