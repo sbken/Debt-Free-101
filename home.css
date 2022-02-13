@@ -2,6 +2,18 @@ body {
  background-color: #F1ECE4; 
 }
 
+header {
+ float: left;
+ background-color:#ABEBC6;
+ list-style-type:none;
+ border-color: #44A06F;
+ border-width: 5px;
+ padding-left:10px;
+ padding-right:50px;
+ padding-top: 10px;
+ padding-bottom:10px;
+}
+
 li {
  float: left;
  background-color:#ABEBC6;
