@@ -6,6 +6,7 @@ header {
  float: left;
  background-color:#ABEBC6;
  list-style-type:none;
+ border-style:solid;
  border-color: #44A06F;
  border-width: 5px;
  padding-left:10px;
