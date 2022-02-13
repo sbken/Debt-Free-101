@@ -14,7 +14,7 @@ header {
  padding-bottom:10px;
 }
 
-li {
+li.li-nav {
  float: left;
  background-color:#ABEBC6;
  list-style-type:none;
