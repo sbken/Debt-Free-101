@@ -4,10 +4,12 @@ body {
 
 ul.nav {
  list-style-type:none;
+ background-color:#ABEBC6;
 }
 
 li {
  float: left;
+ background-color:#ABEBC6;
 }
 
 li a {
