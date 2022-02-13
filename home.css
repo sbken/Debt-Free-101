@@ -99,3 +99,7 @@ table {
 .button {
  display:inline;
 }
+ 
+ .sorry {
+  padding-top:10px;
+ }
