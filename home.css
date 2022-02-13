@@ -13,6 +13,7 @@ header {
  padding-right:50px;
  padding-top: 10px;
  padding-bottom:10px;
+ margin:15px;
 }
 
 li.li-nav {
@@ -25,6 +26,7 @@ li.li-nav {
  padding-right:50px;
  padding-top: 10px;
  padding-bottom:10px;
+ margin:15px;
 }
 
 li a {
@@ -74,6 +76,12 @@ ul {
 
 table {
   text-align:center;
-  border-color: 1px solid black;
+  border-width:3px;
+  border-style:solid;
+   border-color:#000000;
   padding: 10%;
+}
+
+ul.bullet {
+ margin-left:30px;
 }
