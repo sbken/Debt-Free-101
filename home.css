@@ -1,9 +1,11 @@
 body {
- background-color: #E6D8B9; 
+ background-color: #F1ECE4; 
 }
 
 nav {
-  background-color:#8CC7AB;
+  background-color:#ABEBC6;
+ text-align:center;
+ display: inline;
 }
 
 h1 {
