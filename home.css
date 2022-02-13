@@ -13,7 +13,6 @@ header {
  padding-right:50px;
  padding-top: 10px;
  padding-bottom:10px;
- margin:15px;
 }
 
 li.li-nav {
@@ -26,7 +25,6 @@ li.li-nav {
  padding-right:50px;
  padding-top: 10px;
  padding-bottom:10px;
- margin:15px;
 }
 
 li a {
@@ -54,7 +52,7 @@ nav {
 }
 
 h1 {
- padding-top: 20px;
+  margin-top:15px;
   text-align:center;
 }
 
@@ -74,7 +72,7 @@ ul {
   text-align:center
 }
 
-table {
+table,th,td {
   text-align:center;
   border-width:3px;
   border-style:solid;
@@ -83,5 +81,5 @@ table {
 }
 
 ul.bullet {
- margin-left:30px;
+ margin-left:25px;
 }
