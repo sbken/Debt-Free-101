@@ -233,38 +233,38 @@ q4a2.disabled = true;
 q4a3.disabled = true;
 }
     
-function disableq1() {
+function disableq5() {
 q5a1.disabled = true; 
 q5a2.disabled = true; 
 }
     
-function disableq2 () {
+function disableq6 () {
 q6a1.disabled = true;
 q6a2.disabled = true;
 q6a3.disabled = true;
 q6a4.disabled = true;
 }
     
-function disableq1() {
+function disableq7() {
 q7a1.disabled = true; 
 q7a2.disabled = true; 
 }
     
-function disableq2 () {
+function disableq8 () {
 q8a1.disabled = true;
 q8a2.disabled = true;
 q8a3.disabled = true;
 q8a4.disabled = true;
 }
     
-function disableq2 () {
+function disableq9 () {
 q9a1.disabled = true;
 q9a2.disabled = true;
 q9a3.disabled = true;
 q9a4.disabled = true;
 }
     
-function disableq2 () {
+function disableq10 () {
 q10a1.disabled = true;
 q10a2.disabled = true;
 q10a3.disabled = true;
