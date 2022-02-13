@@ -11,8 +11,16 @@ li {
 }
 
 li a {
-color:#44A06F;
- 
+color:#FFFFFF;
+ padding-left:10px;
+ padding-right:10px;
+ padding-top: 10px;
+ padding-bottom:10px;
+}
+
+li a:hover {
+ color:44A06F;
+ background-color:#FFFFFF;
 }
 
 nav {
