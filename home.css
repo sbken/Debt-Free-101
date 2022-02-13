@@ -85,9 +85,25 @@ th,td {
   border-style:solid;
    border-color:#000000;
   border-collapse: collapse;
-  padding: 1%;
+  padding: 10%;
 }
 
 .button {
  display:inline;
+ background-color: #FFFFFF;
+ color:#44A06F;
+ border-color:#44A06F;
+ font-size:10px;
+}
+
+.button:hover {
+ display:inline;
+ background-color:#44A06F;
+ color:#FFFFFF;
+ border-color:#FFFFFF;
+ font-size:10px;
+}
+
+.centertable {
+ color: #F1ECE4; 
 }
