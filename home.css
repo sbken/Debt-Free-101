@@ -73,12 +73,16 @@ ul {
   text-align:center
 }
 
+table {
+ padding-left:20px;
+}
+
 th,td {
   text-align:center;
   border-width:3px;
   border-style:solid;
    border-color:#000000;
-  padding: 10%;
+  padding: 10px;
 }
 
 .list {
