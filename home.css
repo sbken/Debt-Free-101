@@ -2,16 +2,12 @@ body {
  background-color: #F1ECE4; 
 }
 
-header{
- list-style-type:none;
- background-color:#ABEBC6;
- border-color: #44A06F;
- border-width: 5px;
-}
-
 li {
  float: left;
  background-color:#ABEBC6;
+ list-style-type:none;
+ border-color: #44A06F;
+ border-width: 5px;
 }
 
 li a {
