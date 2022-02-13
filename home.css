@@ -80,6 +80,6 @@ table,th,td {
   padding: 10%;
 }
 
-ul.bullet {
- margin-left:25px;
+.list {
+ text-align:center;
 }
