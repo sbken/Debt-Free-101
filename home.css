@@ -1,5 +1,6 @@
 body {
  background-color: #F1ECE4; 
+ text-align:center;
 }
 
 header {
@@ -72,7 +73,7 @@ ul {
   text-align:center
 }
 
-table,th,td {
+th,td {
   text-align:center;
   border-width:3px;
   border-style:solid;
@@ -81,5 +82,5 @@ table,th,td {
 }
 
 .list {
- text-align:center;
+ left-margin:20px;
 }
